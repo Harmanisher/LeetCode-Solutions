@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-08-29T11:25:57.366Z",
+  "updatedAt": "2026-08-29T11:26:12.231Z",
   "problems": [
     {
       "frontendId": "105",
@@ -123,6 +123,26 @@
           "path": "0297-serialize-and-deserialize-binary-tree/0297-serialize-and-deserialize-binary-tree.cpp",
           "sha": "ba0c5fd057379716dd35bc921631716be64ff2f5",
           "lastSyncedAt": "2026-08-29T11:24:33.808Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "662",
+      "title": "Maximum Width of Binary Tree",
+      "slug": "maximum-width-of-binary-tree",
+      "problemName": "0662-maximum-width-of-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+      "folderPath": "0662-maximum-width-of-binary-tree/",
+      "readmePath": "0662-maximum-width-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0662-maximum-width-of-binary-tree.cpp",
+          "path": "0662-maximum-width-of-binary-tree/0662-maximum-width-of-binary-tree.cpp",
+          "sha": "21a027fe18d85a1d377707ada597ee5eaeb27218",
+          "lastSyncedAt": "2026-08-29T11:26:12.231Z"
         }
       ]
     },
