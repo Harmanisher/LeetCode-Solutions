@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "linked-list",
+    "name": "Linked List"
+  },
+  "updatedAt": "2026-08-29T11:23:54.286Z",
+  "problems": [
+    {
+      "frontendId": "114",
+      "title": "Flatten Binary Tree to Linked List",
+      "slug": "flatten-binary-tree-to-linked-list",
+      "problemName": "0114-flatten-binary-tree-to-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+      "folderPath": "0114-flatten-binary-tree-to-linked-list/",
+      "readmePath": "0114-flatten-binary-tree-to-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0114-flatten-binary-tree-to-linked-list.cpp",
+          "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.cpp",
+          "sha": "d89dc09a0d43588016292c8616599d8b4975b6b7",
+          "lastSyncedAt": "2026-08-29T11:23:54.286Z"
+        }
+      ]
+    }
+  ]
+}
