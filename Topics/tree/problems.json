@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-08-29T11:26:25.016Z",
+  "updatedAt": "2026-08-29T11:26:43.457Z",
   "problems": [
     {
       "frontendId": "105",
@@ -143,6 +143,26 @@
           "path": "0297-serialize-and-deserialize-binary-tree/0297-serialize-and-deserialize-binary-tree.cpp",
           "sha": "ba0c5fd057379716dd35bc921631716be64ff2f5",
           "lastSyncedAt": "2026-08-29T11:24:33.808Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "637",
+      "title": "Average of Levels in Binary Tree",
+      "slug": "average-of-levels-in-binary-tree",
+      "problemName": "0637-average-of-levels-in-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/average-of-levels-in-binary-tree/",
+      "folderPath": "0637-average-of-levels-in-binary-tree/",
+      "readmePath": "0637-average-of-levels-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0637-average-of-levels-in-binary-tree.cpp",
+          "path": "0637-average-of-levels-in-binary-tree/0637-average-of-levels-in-binary-tree.cpp",
+          "sha": "584032290dc3d819791ca5242deee21c9e43e274",
+          "lastSyncedAt": "2026-08-29T11:26:43.457Z"
         }
       ]
     },
