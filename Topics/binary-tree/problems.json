@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-08-29T11:24:18.286Z",
+  "updatedAt": "2026-08-29T11:24:33.808Z",
   "problems": [
     {
       "frontendId": "114",
@@ -43,6 +43,26 @@
           "path": "0226-invert-binary-tree/0226-invert-binary-tree.cpp",
           "sha": "0d1b46183aa367a404e133dfe52a4b9ade6759f2",
           "lastSyncedAt": "2026-08-29T11:24:18.286Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "297",
+      "title": "Serialize and Deserialize Binary Tree",
+      "slug": "serialize-and-deserialize-binary-tree",
+      "problemName": "0297-serialize-and-deserialize-binary-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+      "folderPath": "0297-serialize-and-deserialize-binary-tree/",
+      "readmePath": "0297-serialize-and-deserialize-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0297-serialize-and-deserialize-binary-tree.cpp",
+          "path": "0297-serialize-and-deserialize-binary-tree/0297-serialize-and-deserialize-binary-tree.cpp",
+          "sha": "ba0c5fd057379716dd35bc921631716be64ff2f5",
+          "lastSyncedAt": "2026-08-29T11:24:33.808Z"
         }
       ]
     }
