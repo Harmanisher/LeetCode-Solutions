@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sorting",
+    "name": "Sorting"
+  },
+  "updatedAt": "2026-08-29T11:27:16.841Z",
+  "problems": [
+    {
+      "frontendId": "987",
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "slug": "vertical-order-traversal-of-a-binary-tree",
+      "problemName": "0987-vertical-order-traversal-of-a-binary-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+      "folderPath": "0987-vertical-order-traversal-of-a-binary-tree/",
+      "readmePath": "0987-vertical-order-traversal-of-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0987-vertical-order-traversal-of-a-binary-tree.cpp",
+          "path": "0987-vertical-order-traversal-of-a-binary-tree/0987-vertical-order-traversal-of-a-binary-tree.cpp",
+          "sha": "5c8fa189ecfaa58ce8fa64ddac04f01804838f86",
+          "lastSyncedAt": "2026-08-29T11:27:16.841Z"
+        }
+      ]
+    }
+  ]
+}
