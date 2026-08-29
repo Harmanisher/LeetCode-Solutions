@@ -4,8 +4,28 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-08-29T11:26:54.919Z",
+  "updatedAt": "2026-08-29T11:27:06.356Z",
   "problems": [
+    {
+      "frontendId": "110",
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "problemName": "0110-balanced-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
+      "folderPath": "0110-balanced-binary-tree/",
+      "readmePath": "0110-balanced-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0110-balanced-binary-tree.cpp",
+          "path": "0110-balanced-binary-tree/0110-balanced-binary-tree.cpp",
+          "sha": "d020d69342448bc6cfcf3c45e92f8a0d82211817",
+          "lastSyncedAt": "2026-08-29T11:27:06.356Z"
+        }
+      ]
+    },
     {
       "frontendId": "114",
       "title": "Flatten Binary Tree to Linked List",
