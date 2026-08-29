@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers"
+  },
+  "updatedAt": "2026-08-29T11:25:46.896Z",
+  "problems": [
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "0283-move-zeroes/",
+      "readmePath": "0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0283-move-zeroes.cpp",
+          "path": "0283-move-zeroes/0283-move-zeroes.cpp",
+          "sha": "4bd3e1dd1ddb4c3978fa61f7b2ed2531b641eafa",
+          "lastSyncedAt": "2026-08-29T11:25:46.896Z"
+        }
+      ]
+    }
+  ]
+}
