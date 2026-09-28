@@ -4,8 +4,28 @@
     "slug": "binary-search-tree",
     "name": "Binary Search Tree"
   },
-  "updatedAt": "2026-09-24T16:57:24.923Z",
+  "updatedAt": "2026-09-28T18:17:27.279Z",
   "problems": [
+    {
+      "frontendId": "450",
+      "title": "Delete Node in a BST",
+      "slug": "delete-node-in-a-bst",
+      "problemName": "0450-delete-node-in-a-bst",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-bst/",
+      "folderPath": "0450-delete-node-in-a-bst/",
+      "readmePath": "0450-delete-node-in-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0450-delete-node-in-a-bst.cpp",
+          "path": "0450-delete-node-in-a-bst/0450-delete-node-in-a-bst.cpp",
+          "sha": "ad755b9c8bba755e4a7e8cb7132348fb1906ccc4",
+          "lastSyncedAt": "2026-09-28T18:17:27.279Z"
+        }
+      ]
+    },
     {
       "frontendId": "700",
       "title": "Search in a Binary Search Tree",
