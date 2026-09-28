@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 17 | 6 | 9 | 2 |
+| 18 | 6 | 10 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 5 days | 15 |
+| 1 days | 5 days | 16 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-08 | 1 |
 | 2026-08-11 | 2 |
 | 2026-08-12 | 1 |
 | 2026-08-14 | 1 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-08-29 | 1 |
 | 2026-09-22 | 1 |
 | 2026-09-23 | 1 |
+| 2026-09-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 16 | 94% |
-| Tree | 16 | 94% |
-| Depth-First Search | 11 | 65% |
-| Breadth-First Search | 8 | 47% |
-| Hash Table | 4 | 24% |
-| Array | 3 | 18% |
-| Binary Search Tree | 2 | 12% |
-| Divide and Conquer | 2 | 12% |
+| Binary Tree | 17 | 94% |
+| Tree | 17 | 94% |
+| Depth-First Search | 11 | 61% |
+| Breadth-First Search | 8 | 44% |
+| Hash Table | 4 | 22% |
+| Array | 3 | 17% |
+| Binary Search Tree | 3 | 17% |
+| Divide and Conquer | 2 | 11% |
 | Binary Lifting | 1 | 6% |
 | Binary Search | 1 | 6% |
 
@@ -52,8 +52,8 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 3 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 2 |
-| [Binary Tree](Topics/binary-tree/) | 16 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 3 |
+| [Binary Tree](Topics/binary-tree/) | 17 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 8 |
 | [Depth-First Search](Topics/depth-first-search/) | 11 |
@@ -65,6 +65,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 1 |
-| [Tree](Topics/tree/) | 16 |
+| [Tree](Topics/tree/) | 17 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
