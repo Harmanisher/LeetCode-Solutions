@@ -4,7 +4,7 @@
     "slug": "binary-search-tree",
     "name": "Binary Search Tree"
   },
-  "updatedAt": "2026-09-28T18:17:27.279Z",
+  "updatedAt": "2026-09-29T05:40:33.338Z",
   "problems": [
     {
       "frontendId": "450",
@@ -22,7 +22,7 @@
           "filename": "0450-delete-node-in-a-bst.cpp",
           "path": "0450-delete-node-in-a-bst/0450-delete-node-in-a-bst.cpp",
           "sha": "ad755b9c8bba755e4a7e8cb7132348fb1906ccc4",
-          "lastSyncedAt": "2026-09-28T18:17:27.279Z"
+          "lastSyncedAt": "2026-09-29T05:40:33.338Z"
         }
       ]
     },
