@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 18 | 6 | 10 | 2 |
+| 19 | 6 | 11 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 5 days | 16 |
+| 1 days | 5 days | 17 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-11 | 2 |
 | 2026-08-12 | 1 |
 | 2026-08-14 | 1 |
 | 2026-08-17 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-22 | 1 |
 | 2026-09-23 | 1 |
 | 2026-09-28 | 1 |
+| 2026-10-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 17 | 94% |
-| Tree | 17 | 94% |
-| Depth-First Search | 11 | 61% |
-| Breadth-First Search | 8 | 44% |
-| Hash Table | 4 | 22% |
-| Array | 3 | 17% |
-| Binary Search Tree | 3 | 17% |
+| Binary Tree | 18 | 95% |
+| Tree | 18 | 95% |
+| Depth-First Search | 12 | 63% |
+| Breadth-First Search | 8 | 42% |
+| Binary Search Tree | 4 | 21% |
+| Hash Table | 4 | 21% |
+| Array | 3 | 16% |
 | Divide and Conquer | 2 | 11% |
-| Binary Lifting | 1 | 6% |
-| Binary Search | 1 | 6% |
+| Binary Lifting | 1 | 5% |
+| Binary Search | 1 | 5% |
 
 ## Topics
 
@@ -52,11 +52,11 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 3 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 3 |
-| [Binary Tree](Topics/binary-tree/) | 17 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 4 |
+| [Binary Tree](Topics/binary-tree/) | 18 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 8 |
-| [Depth-First Search](Topics/depth-first-search/) | 11 |
+| [Depth-First Search](Topics/depth-first-search/) | 12 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Hash Table](Topics/hash-table/) | 4 |
@@ -65,6 +65,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 1 |
-| [Tree](Topics/tree/) | 17 |
+| [Tree](Topics/tree/) | 19 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
