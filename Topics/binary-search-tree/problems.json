@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "binary-search-tree",
-    "name": "Binary Search Tree"
+    "name": "Binary Search Tree",
+    "tagId": "30"
   },
-  "updatedAt": "2026-10-01T14:08:27.705Z",
+  "updatedAt": "2026-10-14T08:32:58.130Z",
   "problems": [
     {
       "frontendId": "230",
@@ -23,6 +24,26 @@
           "path": "0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.cpp",
           "sha": "bfea85bd0f2b8640de4637b24a9f718af3daa35c",
           "lastSyncedAt": "2026-10-01T14:08:27.705Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "235",
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+      "problemName": "0235-lowest-common-ancestor-of-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+      "folderPath": "0235-lowest-common-ancestor-of-a-binary-search-tree/",
+      "readmePath": "0235-lowest-common-ancestor-of-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0235-lowest-common-ancestor-of-a-binary-search-tree.cpp",
+          "path": "0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.cpp",
+          "sha": "a139421808c871f728ec0e5823dce76592583eb2",
+          "lastSyncedAt": "2026-10-14T08:32:58.130Z"
         }
       ]
     },
