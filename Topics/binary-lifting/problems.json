@@ -5,7 +5,7 @@
     "name": "Binary Lifting",
     "tagId": "68207"
   },
-  "updatedAt": "2026-10-14T08:32:58.130Z",
+  "updatedAt": "2026-10-14T18:10:41.182Z",
   "problems": [
     {
       "frontendId": "235",
@@ -23,7 +23,7 @@
           "filename": "0235-lowest-common-ancestor-of-a-binary-search-tree.cpp",
           "path": "0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.cpp",
           "sha": "a139421808c871f728ec0e5823dce76592583eb2",
-          "lastSyncedAt": "2026-10-14T08:32:58.130Z"
+          "lastSyncedAt": "2026-10-14T18:10:41.182Z"
         }
       ]
     },
