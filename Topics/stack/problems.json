@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "stack",
-    "name": "Stack"
+    "name": "Stack",
+    "tagId": "15"
   },
-  "updatedAt": "2026-08-29T11:23:54.286Z",
+  "updatedAt": "2026-10-15T13:01:27.530Z",
   "problems": [
     {
       "frontendId": "114",
@@ -23,6 +24,26 @@
           "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.cpp",
           "sha": "d89dc09a0d43588016292c8616599d8b4975b6b7",
           "lastSyncedAt": "2026-08-29T11:23:54.286Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1008",
+      "title": "Construct Binary Search Tree from Preorder Traversal",
+      "slug": "construct-binary-search-tree-from-preorder-traversal",
+      "problemName": "1008-construct-binary-search-tree-from-preorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+      "folderPath": "1008-construct-binary-search-tree-from-preorder-traversal/",
+      "readmePath": "1008-construct-binary-search-tree-from-preorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1008-construct-binary-search-tree-from-preorder-traversal.cpp",
+          "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.cpp",
+          "sha": "c81ff0e52ea3205fc6e98b81185a98d638cd04c3",
+          "lastSyncedAt": "2026-10-15T13:01:27.530Z"
         }
       ]
     }
