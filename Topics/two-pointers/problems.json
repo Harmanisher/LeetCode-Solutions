@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "two-pointers",
-    "name": "Two Pointers"
+    "name": "Two Pointers",
+    "tagId": "9"
   },
-  "updatedAt": "2026-08-29T11:25:46.896Z",
+  "updatedAt": "2026-10-16T14:23:10.670Z",
   "problems": [
     {
       "frontendId": "283",
@@ -23,6 +24,26 @@
           "path": "0283-move-zeroes/0283-move-zeroes.cpp",
           "sha": "4bd3e1dd1ddb4c3978fa61f7b2ed2531b641eafa",
           "lastSyncedAt": "2026-08-29T11:25:46.896Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "653",
+      "title": "Two Sum IV - Input is a BST",
+      "slug": "two-sum-iv-input-is-a-bst",
+      "problemName": "0653-two-sum-iv-input-is-a-bst",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+      "folderPath": "0653-two-sum-iv-input-is-a-bst/",
+      "readmePath": "0653-two-sum-iv-input-is-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0653-two-sum-iv-input-is-a-bst.cpp",
+          "path": "0653-two-sum-iv-input-is-a-bst/0653-two-sum-iv-input-is-a-bst.cpp",
+          "sha": "758ad8f5d089adce69cccb6620936236bb55ab02",
+          "lastSyncedAt": "2026-10-16T14:23:10.670Z"
         }
       ]
     }
