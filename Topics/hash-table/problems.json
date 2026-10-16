@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "hash-table",
-    "name": "Hash Table"
+    "name": "Hash Table",
+    "tagId": "6"
   },
-  "updatedAt": "2026-08-29T11:27:16.841Z",
+  "updatedAt": "2026-10-16T14:23:10.670Z",
   "problems": [
     {
       "frontendId": "105",
@@ -43,6 +44,26 @@
           "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.cpp",
           "sha": "3375892f9419770411668a3c3e59daccc0ce59b7",
           "lastSyncedAt": "2026-08-29T11:24:54.904Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "653",
+      "title": "Two Sum IV - Input is a BST",
+      "slug": "two-sum-iv-input-is-a-bst",
+      "problemName": "0653-two-sum-iv-input-is-a-bst",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+      "folderPath": "0653-two-sum-iv-input-is-a-bst/",
+      "readmePath": "0653-two-sum-iv-input-is-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0653-two-sum-iv-input-is-a-bst.cpp",
+          "path": "0653-two-sum-iv-input-is-a-bst/0653-two-sum-iv-input-is-a-bst.cpp",
+          "sha": "758ad8f5d089adce69cccb6620936236bb55ab02",
+          "lastSyncedAt": "2026-10-16T14:23:10.670Z"
         }
       ]
     },
