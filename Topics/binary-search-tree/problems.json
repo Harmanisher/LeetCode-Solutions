@@ -5,7 +5,7 @@
     "name": "Binary Search Tree",
     "tagId": "30"
   },
-  "updatedAt": "2026-10-17T11:29:54.034Z",
+  "updatedAt": "2026-10-17T11:31:40.300Z",
   "problems": [
     {
       "frontendId": "173",
@@ -103,7 +103,7 @@
           "filename": "0653-two-sum-iv-input-is-a-bst.cpp",
           "path": "0653-two-sum-iv-input-is-a-bst/0653-two-sum-iv-input-is-a-bst.cpp",
           "sha": "758ad8f5d089adce69cccb6620936236bb55ab02",
-          "lastSyncedAt": "2026-10-17T11:29:54.034Z"
+          "lastSyncedAt": "2026-10-17T11:31:40.300Z"
         }
       ]
     },
