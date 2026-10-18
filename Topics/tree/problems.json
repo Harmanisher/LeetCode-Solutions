@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-17T18:44:56.938Z",
+  "updatedAt": "2026-10-18T09:55:37.055Z",
   "problems": [
     {
       "frontendId": "98",
@@ -24,6 +24,26 @@
           "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.cpp",
           "sha": "d96420e9d13c1f5a42731070f3cef689881d471c",
           "lastSyncedAt": "2026-09-29T12:40:45.929Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "99",
+      "title": "Recover Binary Search Tree",
+      "slug": "recover-binary-search-tree",
+      "problemName": "0099-recover-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/recover-binary-search-tree/",
+      "folderPath": "0099-recover-binary-search-tree/",
+      "readmePath": "0099-recover-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0099-recover-binary-search-tree.cpp",
+          "path": "0099-recover-binary-search-tree/0099-recover-binary-search-tree.cpp",
+          "sha": "d7795a1b63bafb523bf192aff1036b0b52785caf",
+          "lastSyncedAt": "2026-10-18T09:55:37.055Z"
         }
       ]
     },
