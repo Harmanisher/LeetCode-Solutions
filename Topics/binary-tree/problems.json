@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-18T13:26:35.026Z",
+  "updatedAt": "2026-10-18T13:31:00.739Z",
   "problems": [
     {
       "frontendId": "99",
@@ -23,7 +23,7 @@
           "filename": "0099-recover-binary-search-tree.cpp",
           "path": "0099-recover-binary-search-tree/0099-recover-binary-search-tree.cpp",
           "sha": "d7795a1b63bafb523bf192aff1036b0b52785caf",
-          "lastSyncedAt": "2026-10-18T13:26:35.026Z"
+          "lastSyncedAt": "2026-10-18T13:31:00.739Z"
         }
       ]
     },
