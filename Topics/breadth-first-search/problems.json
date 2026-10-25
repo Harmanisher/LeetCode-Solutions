@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-17T18:44:56.938Z",
+  "updatedAt": "2026-10-25T13:16:00.391Z",
   "problems": [
     {
       "frontendId": "101",
@@ -84,6 +84,26 @@
           "path": "0297-serialize-and-deserialize-binary-tree/0297-serialize-and-deserialize-binary-tree.cpp",
           "sha": "ba0c5fd057379716dd35bc921631716be64ff2f5",
           "lastSyncedAt": "2026-08-29T11:24:33.808Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "547",
+      "title": "Number of Provinces",
+      "slug": "number-of-provinces",
+      "problemName": "0547-number-of-provinces",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+      "folderPath": "0547-number-of-provinces/",
+      "readmePath": "0547-number-of-provinces/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0547-number-of-provinces.cpp",
+          "path": "0547-number-of-provinces/0547-number-of-provinces.cpp",
+          "sha": "5dd6a1843cf4c89a5995ae0c089a0f7c0f86ba44",
+          "lastSyncedAt": "2026-10-25T13:16:00.391Z"
         }
       ]
     },
